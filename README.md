@@ -15,13 +15,13 @@ Swift로 푼 코딩 테스트 문제들을 정리하고 공부하는 공간입�
 
 | 문제 이름 | 문제 번호 | 문제 링크 |
 | --- | --- | --- |
-문자열 출력하기 | 181952 | [프로그래머스]/0-프로그래머스 기초/181952_문자열출력하기.swift 
-a와 b 출력하기 | 181951 | [프로그래머스]/0-프로그래머스 기초/181951_a와b출력하기.swift
-문자열 반복해서 출력하기
-대소문자 바꿔서 출력하기
-특수문자 출력하기
-덧셈식 출력하기
-문자열 붙여서 출력하기
+문자열 출력하기 | 181952 | [[프로그래머스]/0-프로그래머스 기초/181952_문자열출력하기.swift ](https://github.com/BaeJihae/-Swift-CodingTest/blob/3f089183292ae001109ed0e356cf2dbcf8bafa57/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EA%B8%B0%EC%B4%88/181952_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.swift)
+a와 b 출력하기 | 181951 | [[프로그래머스]/0-프로그래머스 기초/181951_a와b출력하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3f089183292ae001109ed0e356cf2dbcf8bafa57/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EA%B8%B0%EC%B4%88/181951_a%EC%99%80b%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.swift)
+문자열 반복해서 출력하기 | 181950 | [[프로그래머스]/0-프로그래머스 기초/181950_문자열반복해서출력하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3f089183292ae001109ed0e356cf2dbcf8bafa57/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EA%B8%B0%EC%B4%88/181950_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.swift)
+대소문자 바꿔서 출력하기 ||
+특수문자 출력하기 ||
+덧셈식 출력하기 || 
+문자열 붙여서 출력하기 ||
 문자열 돌리기
 홀짝 구분하기
 문자열 겹쳐쓰기
