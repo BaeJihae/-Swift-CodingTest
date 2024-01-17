@@ -11,9 +11,7 @@ Swift로 푼 코딩 테스트 문제들을 정리하고 공부하는 공간입�
 ### <details><summary> 기초
 </summary>
 
-
-
-| 문제 이름 | 문제 번호 | 문제 링크 |
+| :문제 이름 | :문제 번호 | :문제 링크 |
 | --- | --- | --- |
 문자열 출력하기 | 181952 | [[프로그래머스]/0-프로그래머스 기초/181952_문자열출력하기.swift ](https://github.com/BaeJihae/-Swift-CodingTest/blob/3f089183292ae001109ed0e356cf2dbcf8bafa57/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EA%B8%B0%EC%B4%88/181952_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.swift)
 a와 b 출력하기 | 181951 | [[프로그래머스]/0-프로그래머스 기초/181951_a와b출력하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3f089183292ae001109ed0e356cf2dbcf8bafa57/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EA%B8%B0%EC%B4%88/181951_a%EC%99%80b%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.swift)
