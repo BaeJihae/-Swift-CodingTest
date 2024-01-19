@@ -152,13 +152,13 @@ l로 만들기 | 181834 | [[프로그래머스]/0-프로그래머스 기초/1818
 
 | 문제 이름 | 문제 번호 | 문제 링크 |
 | --- | --- | --- |
-두 수의 합 | 120802 |
-두 수의 차 | 120803 |
-두 수의 곱 | 120804 |
-몫 구하기 | 120805 |
-두 수의 나눗셈 | 120806 |
-숫자 비교하기 | 120807 |
-분수의 덧셈 | 120808 |
+두 수의 합 | 120802 | [[프로그래머스]/0-프로그래머스 입문/120802_두수의합.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120802_%EB%91%90%EC%88%98%EC%9D%98%ED%95%A9.swift)
+두 수의 차 | 120803 | [[프로그래머스]/0-프로그래머스 입문/120803_두수의차.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120803_%EB%91%90%EC%88%98%EC%9D%98%EC%B0%A8.swift)
+두 수의 곱 | 120804 | [[프로그래머스]/0-프로그래머스 입문/120804_두수의곱.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120804_%EB%91%90%EC%88%98%EC%9D%98%EA%B3%B1.swift)
+몫 구하기 | 120805 | [[프로그래머스]/0-프로그래머스 입문/120805_몫구하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120805_%EB%AA%AB%EA%B5%AC%ED%95%98%EA%B8%B0.swift)
+두 수의 나눗셈 | 120806 | [[프로그래머스]/0-프로그래머스 입문/120806_두수의나눗셈.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120806_%EB%91%90%EC%88%98%EC%9D%98%EB%82%98%EB%88%97%EC%85%88.swift)
+숫자 비교하기 | 120807 | [[프로그래머스]/0-프로그래머스 입문/120807_숫자비교하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120807_%EC%88%AB%EC%9E%90%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.swift)
+분수의 덧셈 | 120808 | 
 배열 두 배 만들기 | 120809 |
 나머지 구하기 | 120810 |
 중앙값 구하기 | 120811 |
@@ -170,7 +170,7 @@ l로 만들기 | 181834 | [[프로그래머스]/0-프로그래머스 기초/1818
 배열의 평균값 | 120817 |
 옷가게 할인 받기 | 120818 |
 아이스 아메리카노 | 120819 |
-나이 출력 | 120820 |
+나이 출력 | 120820 | [[프로그래머스]/0-프로그래머스 입문/120820_나이출력.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120820_%EB%82%98%EC%9D%B4%EC%B6%9C%EB%A0%A5.swift)
 배열 뒤집기 | 120821 |
 문자열 뒤집기 | 120822 |
 직각삼각형 출력하기 | 120823 |
