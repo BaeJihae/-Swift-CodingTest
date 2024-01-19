@@ -16,7 +16,7 @@ Swift로 푼 코딩 테스트 문제들을 정리하고 공부하는 공간입�
 
 <br/>
 
-| 문제 이름 | 문제 번호 | 문제 링크 |
+| 문제 이름 | 문제 번호 | 문제 풀이 |
 | --- | --- | --- |
 문자열 출력하기 | 181952 | [[프로그래머스]/0-프로그래머스 기초/181952_문자열출력하기.swift ](https://github.com/BaeJihae/-Swift-CodingTest/blob/3f089183292ae001109ed0e356cf2dbcf8bafa57/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EA%B8%B0%EC%B4%88/181952_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.swift)
 a와 b 출력하기 | 181951 | [[프로그래머스]/0-프로그래머스 기초/181951_a와b출력하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3f089183292ae001109ed0e356cf2dbcf8bafa57/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EA%B8%B0%EC%B4%88/181951_a%EC%99%80b%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.swift)
@@ -150,7 +150,7 @@ l로 만들기 | 181834 | [[프로그래머스]/0-프로그래머스 기초/1818
 
 <br/>
 
-| 문제 이름 | 문제 번호 | 문제 링크 |
+| 문제 이름 | 문제 번호 | 문제 풀이 |
 | --- | --- | --- |
 두 수의 합 | 120802 | [[프로그래머스]/0-프로그래머스 입문/120802_두수의합.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120802_%EB%91%90%EC%88%98%EC%9D%98%ED%95%A9.swift)
 두 수의 차 | 120803 | [[프로그래머스]/0-프로그래머스 입문/120803_두수의차.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/8bb5f1a51cc4b0a0c3d6f60b8073677d2099fead/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120803_%EB%91%90%EC%88%98%EC%9D%98%EC%B0%A8.swift)
@@ -254,6 +254,16 @@ k의 개수 | 120887 |
 다음에 올 숫자 | 120924 |
 
 ## LV.1
+
+### 연습문제
+| 문제 이름 | 문제 번호 | 문제 링크 |
+| --- | --- | --- |
+짝수와 홀수 | 12937 | [[프로그래머스]/1-연습/12937_짝수와홀수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/ecf61815ee9ea96282ef0272064df84d793eeec3/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12937_%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98.swift)
+평균 구하기 | 12944 | [[프로그래머스]/1-연습/12944_평균구하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12944_%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.swift)
+자릿수 더하기 | 12931 | [[프로그래머스]/1-연습/12931_자릿수더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12931_%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0.swift)
+약수의 합 | 12928 | [[프로그래머스]/1-연습/12928_약수의합.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12928_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.swift)
+나머지가 1이 되는 수 | 
+카드뭉치 | 159994 | [[프로그래머스]/1-연습/159994_카드뭉치.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/159994_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.swift)
 
 ## LV.2
 
