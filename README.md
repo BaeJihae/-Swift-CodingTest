@@ -262,7 +262,8 @@ k의 개수 | 120887 |
 평균 구하기 | 12944 | [[프로그래머스]/1-연습/12944_평균구하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12944_%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.swift)
 자릿수 더하기 | 12931 | [[프로그래머스]/1-연습/12931_자릿수더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12931_%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0.swift)
 약수의 합 | 12928 | [[프로그래머스]/1-연습/12928_약수의합.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12928_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.swift)
-나머지가 1이 되는 수 | 159994 | [[프로그래머스]/1-연습/159994_카드뭉치.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/159994_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.swift)
+나머지가 1이 되는 수 | 
+카드뭉치 | 159994 | [[프로그래머스]/1-연습/159994_카드뭉치.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/159994_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.swift)
 
 ## LV.2
 
