@@ -167,7 +167,7 @@ l로 만들기 | 181834 | [[프로그래머스]/0-프로그래머스 기초/1818
 피자 나눠 먹기 (1) | 120814 |
 피자 나눠 먹기 (2) | 120815 |
 피자 나눠 먹기 (3) | 120816 |
-배열의 평균값 | 120817 |
+배열의 평균값 | 120817 | [[프로그래머스]/0-프로그래머스 입문/120817_배열의평균값.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120817_%EB%B0%B0%EC%97%B4%EC%9D%98%ED%8F%89%EA%B7%A0%EA%B0%92.swift)
 옷가게 할인 받기 | 120818 |
 아이스 아메리카노 | 120819 |
 나이 출력 | 120820 | [[프로그래머스]/0-프로그래머스 입문/120820_나이출력.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120820_%EB%82%98%EC%9D%B4%EC%B6%9C%EB%A0%A5.swift)
@@ -177,21 +177,21 @@ l로 만들기 | 181834 | [[프로그래머스]/0-프로그래머스 기초/1818
 짝수 홀수 개수 | 120824 |
 문자 반복 출력하기 | 120825 |
 특정 문자 제거하기 | 120826 |
-각도기 | 120827 |
-양꼬치 | 120828 |
-짝수의 합 | 120829 |
-배열 자르기 | 120833 |
-외계행성의 나이 | 120834 |
-진료순서 정하기 | 120835 |
-순서쌍의 개수 | 120836 |
-개미 군단 | 120837 |
+각도기 | 120829 | [[프로그래머스]/0-프로그래머스 입문/120829_각도기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120829_%EA%B0%81%EB%8F%84%EA%B8%B0.swift) 
+양꼬치 | 120830 |
+짝수의 합 | 120831 | [[프로그래머스]/0-프로그래머스 입문/120831_짝수의합.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120831_%EC%A7%9D%EC%88%98%EC%9D%98%ED%95%A9.swift)
+배열 자르기 | 120833 | [[프로그래머스]/0-프로그래머스 입문/120833_배열자르기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120833_%EB%B0%B0%EC%97%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.swift)
+외계행성의 나이 | 120834 | [[프로그래머스]/0-프로그래머스 입문/120834_외계행성의나이.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120834_%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%EB%82%98%EC%9D%B4.swift)
+진료순서 정하기 | 120835 | [[프로그래머스]/0-프로그래머스 입문/120835_진료순서정하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120835_%EC%A7%84%EB%A3%8C%EC%88%9C%EC%84%9C%EC%A0%95%ED%95%98%EA%B8%B0.swift)
+순서쌍의 개수 | 120836 | [[프로그래머스]/0-프로그래머스 입문/120836_순서쌍의개수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120836_%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%EA%B0%9C%EC%88%98.swift)
+개미 군단 | 120837 | [[프로그래머스]/0-프로그래머스 입문/120837_개미군단.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120837_%EA%B0%9C%EB%AF%B8%EA%B5%B0%EB%8B%A8.swift)
 모스부호 (1) | 120838 |
-가위 바위 보 | 120839 |
-구슬을 나누는 경우의 수 | 120840 |
-점의 위치 구하기 | 120841 |
-2차원으로 만들기 | 120842 |
-공 던지기 | 120843 |
-배열 회전시키기 | 120844 |
+가위 바위 보 | 120839 | [[프로그래머스]/0-프로그래머스 입문/120839_가위바위보.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120839_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.swift)
+구슬을 나누는 경우의 수 | 120840 | [[프로그래머스]/0-프로그래머스 입문/120840_구슬을나누는경우의수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120840_%EA%B5%AC%EC%8A%AC%EC%9D%84%EB%82%98%EB%88%84%EB%8A%94%EA%B2%BD%EC%9A%B0%EC%9D%98%EC%88%98.swift)
+점의 위치 구하기 | 120841 | [[프로그래머스]/0-프로그래머스 입문/120841_점의위치구하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120841_%EC%A0%90%EC%9D%98%EC%9C%84%EC%B9%98%EA%B5%AC%ED%95%98%EA%B8%B0.swift)
+2차원으로 만들기 | 120842 | [[프로그래머스]/0-프로그래머스 입문/120842_2차원으로만들기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120842_2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)
+공 던지기 | 120843 | [[프로그래머스]/0-프로그래머스 입문/120843_공던지기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120843_%EA%B3%B5%EB%8D%98%EC%A7%80%EA%B8%B0.swift)
+배열 회전시키기 | 120844 | [[프로그래머스]/0-프로그래머스 입문/120844_배열회전시키기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%20%EC%9E%85%EB%AC%B8/120844_%EB%B0%B0%EC%97%B4%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.swift)
 주사위의 개수 | 120845 |
 합성수 찾기 | 120846 |
 최댓값 만들기(1) | 120847 |
@@ -264,6 +264,10 @@ k의 개수 | 120887 |
 약수의 합 | 12928 | [[프로그래머스]/1-연습/12928_약수의합.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12928_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.swift)
 나머지가 1이 되는 수 | 87389 | [[프로그래머스]/1-연습/87389_나머지가 1이 되는 수 찾기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/87389_%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift)
 카드뭉치 | 159994 | [[프로그래머스]/1-연습/159994_카드뭉치.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/159994_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.swift)
+둘만의 암호 | 155652 | [[프로그래머스]/1-연습/155652_둘만의암호.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/155652_%EB%91%98%EB%A7%8C%EC%9D%98%EC%95%94%ED%98%B8.swift)
+x만큼의 간격이 있는 n개의 숫자 | 12954 | [[프로그래머스]/1-연습/12954_x만큼의간격이있는n개의숫자.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12954_x%EB%A7%8C%ED%81%BC%EC%9D%98%EA%B0%84%EA%B2%A9%EC%9D%B4%EC%9E%88%EB%8A%94n%EA%B0%9C%EC%9D%98%EC%88%AB%EC%9E%90.swift)
+자연수 뒤집어 배열로 만들기 | 12932 | [[프로그래머스]/1-연습/12932_자연수뒤집어배열로만들기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12932_%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)
+명예의 전당(1) | 138477 | [[프로그래머스]/1-연습/138477_명예의전당(1).swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/138477_%EB%AA%85%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9(1).swift)
 
 ## LV.2
 
