@@ -1,7 +1,7 @@
 //
-// [프로그래머스] 12915 - 두 개 뽑아서 더하기
+// [프로그래머스] 68644 - 두 개 뽑아서 더하기
 //
-// https://school.programmers.co.kr/learn/courses/30/lessons/12915
+// https://school.programmers.co.kr/learn/courses/30/lessons/68644
 //
 import Foundation
 
