@@ -1,38 +1,45 @@
 //
-// [프로그래머스] 131705 - 삼총사
+// [프로그래머스] 134240 - 푸드 파이트 대회
 //
-// https://school.programmers.co.kr/learn/courses/30/lessons/131705
+// https://school.programmers.co.kr/learn/courses/30/lessons/134240
 //
-
 import Foundation
 
 // 나의 풀이
-func solution(_ number:[Int]) -> Int {
-    var count = 0
-    for i in 0..<number.count-2{
-        for j in (i+1)..<number.count-1{
-            for z in (j+1)..<number.count{
-                if number[i] + number[j] + number[z] == 0{
-                    count += 1
-                }
-            }
+func solution(_ food:[Int]) -> String {
+    
+    var answer: String = "0"
+    
+    for (i, food) in food.enumerated().reversed() {
+        var j = 0
+        while ( j < food / 2 ){
+            answer = "\(i)" + answer + "\(i)"
+            j += 1
         }
     }
-    return count
+    
+    return answer
+}
+
+func solution2(_ food:[Int]) -> String {
+    
+    var answer: String = "0"
+    
+    for (i, food) in food.enumerated().reversed() {
+        let addStr = String(repeating: "\(i)", count: food / 2)
+        answer = addStr + answer + addStr
+    }
+    
+    return answer
 }
 
 // 다른 사람의 풀이
-func solution2(_ number:[Int]) -> Int {
-    var answer = 0
-    func dfs(_ now: Int, _ sum: Int, _ count: Int) {
-        if count == 3 {
-            if sum == 0 { answer += 1 }
-            return
-        }
-        for i in now..<number.count {
-            dfs(i+1, sum + number[i], count + 1)
-        }
-    }
-    dfs(0, 0, 0)
-    return answer
+
+func solution3(_ food:[Int]) -> String {
+var result = ""
+for i in food.indices {
+    result += String(repeating: String(i), count: food[i] / 2)
 }
+return result + "0" + result.reversed()
+}
+
