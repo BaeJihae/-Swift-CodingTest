@@ -1,46 +1,14 @@
-import Foundation
-
 func solution(_ babbling:[String]) -> Int {
-    
-    var count = 0
-    let word = [ "aya", "ye", "woo", "ma"]
-    
-    for bab in babbling {
-        var bab = bab
-        var pre: String = ""
-        while true {
-            if bab.count < 2 {
-                break
-            }else if bab.count == 2{
-                let bab2 = String(bab.prefix(2))
-                if word.contains(bab2) && bab2 != pre {
-                    pre = bab2
-                    bab.removeFirst(2)
-                }else {
-                    break
-                }
-            }else {
-                let bab2 = String(bab.prefix(2))
-                let bab3 = String(bab.prefix(3))
-                
-                if word.contains(bab2) && bab2 != pre {
-                    pre = bab2
-                    bab.removeFirst(2)
-                }else if word.contains(bab3) && bab3 != pre {
-                    pre = bab3
-                    bab.removeFirst(3)
-                }else {
-                    break
-                }
-            }
-            
-            if bab == "" {
-                count += 1
-                break
-            }
-
+    var count: Int = 0
+    for element in babbling {
+        var str = String(element)
+        str = str.replacingOccurrences(of: "aya", with: "1")
+        str = str.replacingOccurrences(of: "ye", with: "2")
+        str = str.replacingOccurrences(of: "woo", with: "3")
+        str = str.replacingOccurrences(of: "ma", with: "4")
+        if Int(str) != nil && !str.contains("11") && !str.contains("22") && !str.contains("33") && !str.contains("44"){
+            count += 1
         }
-    }
-    
+    }    
     return count
 }
