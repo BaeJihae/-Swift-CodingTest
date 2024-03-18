@@ -1,36 +1,25 @@
 func solution(_ dartResult:String) -> Int {
     
-    // 전에 들어온 숫자 저장
-    var beforeNum = 0
+    // 문자열 배열로 변환
+    var dartResult = Array(dartResult)
     // 방금 들어온 숫자 저장
     var nowNum = 0
-    // 총 합
-    var totalNum = 0
-    // 전에 들어온 숫자를 총합에 저장하기 위해 들어온 숫자의 개수를 헤아림
-    var count = 0
-    var dartResult = Array(dartResult)
+    // 숫자 저장
+    var num = [Int]()
     
     while !dartResult.isEmpty {
-        
-        if let num = Int(String(dartResult.prefix(2))){
-            if count == 2 {
-                totalNum += beforeNum
+        if dartResult.first!.isNumber {
+            num.append(nowNum)
+            if let num = Int(String(dartResult.prefix(2))){
+                nowNum = num
+                dartResult.removeFirst(2)
+                continue
             }
-            beforeNum = nowNum
-            nowNum = num
-            count += 1
-            dartResult.removeFirst(2)
-            continue
-        }
-        if let num = Int(String(dartResult.first!)) {
-            if count == 2 {
-                totalNum += beforeNum
+            if let num = Int(String(dartResult.first!)) {
+                nowNum = num
+                dartResult.removeFirst()
+                continue
             }
-            beforeNum = nowNum
-            nowNum = num
-            count += 1
-            dartResult.removeFirst()
-            continue
         }
         
         switch dartResult.first! {
@@ -39,8 +28,9 @@ func solution(_ dartResult:String) -> Int {
         case "T":
             nowNum = nowNum * nowNum * nowNum
         case "*":
+            var n = num.count
+            num[n-1] *= 2
             nowNum = 2 * nowNum
-            beforeNum = 2 * beforeNum
         case "#":
             nowNum = -nowNum
         default: //"S"
@@ -48,8 +38,7 @@ func solution(_ dartResult:String) -> Int {
         }
         dartResult.removeFirst()
     }
-    totalNum += beforeNum
-    totalNum += nowNum
+    num.append(nowNum)
     
-    return totalNum
+    return num.reduce(0, +)
 }
