@@ -308,23 +308,7 @@ x만큼의 간격이 있는 n개의 숫자 | 12954 | [프로그래머스/1/12954
 추억 점수 | 176963 | [프로그래머스/1/176963. 추억 점수](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/176963.%E2%80%85%EC%B6%94%EC%96%B5%E2%80%85%EC%A0%90%EC%88%98)
 달리기 경주 | 178871 | [프로그래머스/1/178871. 달리기 경주](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/178871.%E2%80%85%EB%8B%AC%EB%A6%AC%EA%B8%B0%E2%80%85%EA%B2%BD%EC%A3%BC)
 
-## 정렬
-| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
-| --- | --- | --- | --- |
-K번째수 | 42748 | 1 | [프로그래머스/1/42748_K번째수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42748_K%EB%B2%88%EC%A7%B8%EC%88%98.swift)
-
-## 완전탐색
-| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
-| --- | --- | --- | --- |
-모의고사 | 42840 | 1 |  [프로그래머스/1/42840_모의고사.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)
-최소직사각형 | 86491 | 1 | [프로그래머스/1/86491. 최소직사각형](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86491.%E2%80%85%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
-
-## 탐욕법(Greedy)
-| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
-| --- | --- | --- | --- |
-체육복 | 42862 | 1 |  [프로그래머스/1/42862. 체육복](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42862.%E2%80%85%EC%B2%B4%EC%9C%A1%EB%B3%B5)
-
-## 월간 코드 챌린지 & 위클리 챌린지 & Summer/Winter Coding(~2018) & Dev-Matching: 웹 백엔드 개발자(상반기)
+### 월간 코드 챌린지 & 위클리 챌린지 & Summer/Winter Coding(~2018) & Dev-Matching: 웹 백엔드 개발자(상반기)
 | 문제 이름 | 문제 번호 | 문제 링크 |
 | --- | --- | --- |
 소수 만들기 | 12977 | [프로그래머스/1/12977_소수만들기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12977_%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)
@@ -339,7 +323,7 @@ K번째수 | 42748 | 1 | [프로그래머스/1/42748_K번째수.swift](https://g
 없는 숫자 더하기 | 86501 | [프로그래머스/1/86501_없는숫자더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86501_%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.swift)
 나머지가 1이 되는 수 | 87389 | [프로그래머스/1/87389_나머지가 1이 되는 수 찾기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/87389_%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift)
 
-## KAKAO BLIND RECRUITMENT & 카카오 인턴십
+### KAKAO BLIND RECRUITMENT & 카카오 인턴십
 | 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
 | --- | --- | --- | --- |
 [1차] 비밀지도 | 17681 | 1 | [프로그래머스/1/17681. ［1차］ 비밀지도](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/17681.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
@@ -353,3 +337,19 @@ K번째수 | 42748 | 1 | [프로그래머스/1/42748_K번째수.swift](https://g
 성격 유형 검사하기 | 118666 | 1 | [프로그래머스/1/118666. 성격 유형 검사하기](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/118666.%E2%80%85%EC%84%B1%EA%B2%A9%E2%80%85%EC%9C%A0%ED%98%95%E2%80%85%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
 개인정보 수집 유효기간 | 150370 | 1 | [프로그래머스/1/150370. 개인정보 수집 유효기간](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/150370.%E2%80%85%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%E2%80%85%EC%88%98%EC%A7%91%E2%80%85%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
 가장 많이 받은 선물 | 258712 | 1 | [프로그래머스/1/258712. 가장 많이 받은 선물](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/258712.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EB%A7%8E%EC%9D%B4%E2%80%85%EB%B0%9B%EC%9D%80%E2%80%85%EC%84%A0%EB%AC%BC)
+
+### 정렬
+| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
+| --- | --- | --- | --- |
+K번째수 | 42748 | 1 | [프로그래머스/1/42748_K번째수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42748_K%EB%B2%88%EC%A7%B8%EC%88%98.swift)
+
+### 완전탐색
+| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
+| --- | --- | --- | --- |
+모의고사 | 42840 | 1 |  [프로그래머스/1/42840_모의고사.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)
+최소직사각형 | 86491 | 1 | [프로그래머스/1/86491. 최소직사각형](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86491.%E2%80%85%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+
+### 탐욕법(Greedy)
+| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
+| --- | --- | --- | --- |
+체육복 | 42862 | 1 |  [프로그래머스/1/42862. 체육복](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42862.%E2%80%85%EC%B2%B4%EC%9C%A1%EB%B3%B5)
