@@ -270,6 +270,7 @@ k의 개수 | 120887 |
 소수찾기 | 12921 | [프로그래머스/1/12921. 소수 찾기](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12921.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)
 수박수박수박수박수박수? | 12922 | [프로그래머스/1/12922_수박수박수박수박수박수?.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12922_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.swift)
 문자열을 정수로 바꾸기 | 12925 | [프로그래머스/1/12925_문자열을정수로바꾸기swift.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12925_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%EC%A0%95%EC%88%98%EB%A1%9C%EB%B0%94%EA%BE%B8%EA%B8%B0swift.swift)
+시저 암호 | 12926 | [프로그래머스/1/12926. 시저 암호](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12926.%E2%80%85%EC%8B%9C%EC%A0%80%E2%80%85%EC%95%94%ED%98%B8)
 약수의 합 | 12928 | [프로그래머스/1/12928_약수의합.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12928_%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.swift)
 이상한 문자 만들기 | 12930 | [프로그래머스/1/12930_이상한문자만들기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12930_%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)
 자릿수 더하기 | 12931 | [프로그래머스/1/12931_자릿수더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12931_%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0.swift)
@@ -277,38 +278,78 @@ k의 개수 | 120887 |
 정수 내림차순으로 배치하기 | 12933 | [프로그래머스/1/12933_정수내림차순으로배치하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12933_%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.swift)
 정수 제곱근 판별 | 12934 | [프로그래머스/1/12934_정수제곱근판별.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12934_%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84.swift)
 제일 작은 수 제거하기 | 12935 | [프로그래머스/1/12935_제일작은수제거하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12935_%EC%A0%9C%EC%9D%BC%EC%9E%91%EC%9D%80%EC%88%98%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.swift)
-짝수와 홀수 | 12937 | [프로그래머스/1/12937_짝수와홀수.swift]([https://github.com/BaeJihae/-Swift-CodingTest/blob/ecf61815ee9ea96282ef0272064df84d793eeec3/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/12937_%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12937_%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98.swift))
+짝수와 홀수 | 12937 | [프로그래머스/1/12937_짝수와홀수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12937_%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98.swift)
 최대공약수와 최소공배수 | 12940 | [프로그래머스/1/12940_최대공약수와최소공배수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12940_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.swift)
 콜라츠 추측 | 12943 | [프로그래머스/1/12943_콜라츠추측.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12943_%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1.swift)
 평균 구하기 | 12944 | [프로그래머스/1/12944_평균구하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12944_%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.swift)
 하샤드 수 | 12947 | [프로그래머스/1/12947_하샤드수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12947_%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.swift)
 핸드폰 번호 가리기 | 12948 | [프로그래머스/1/12948_핸드폰번호가리기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12948_%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0.swift)
-행렬의덧셈|12950|[프로그래머스/1/12950_행렬의덧셈.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12950_%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88.swift)
+행렬의 덧셈 | 12950 |[프로그래머스/1/12950_행렬의덧셈.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12950_%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88.swift)
 x만큼의 간격이 있는 n개의 숫자 | 12954 | [프로그래머스/1/12954_x만큼의간격이있는n개의숫자.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12954_x%EB%A7%8C%ED%81%BC%EC%9D%98%EA%B0%84%EA%B2%A9%EC%9D%B4%EC%9E%88%EB%8A%94n%EA%B0%9C%EC%9D%98%EC%88%AB%EC%9E%90.swift)
 직사각형 별찍기 | 12969 | [프로그래머스/1/12969_직사각형별찍기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12969_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0.swift)
-소수만들기 | 12977 | [프로그래머스/1/12977_소수만들기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12977_%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)
-삼총사 | 131705 | [[프로그래머스]/1-연습/131705_삼총사.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/131705_%EC%82%BC%EC%B4%9D%EC%82%AC.swift)
-기사 단원의 무기 | 136798 | [[프로그래머스]/1-연습/136798_기사단원의무기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/de8b2ee03b6e122ff888e595ee6c5bcce2728254/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/136798_%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0.swift)
-명예의 전당(1) | 138477 | [[프로그래머스]/1-연습/138477_명예의전당(1).swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/138477_%EB%AA%85%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9(1).swift)
-크기가 작은 부분 문자열 | 147355 |[[프로그래머스]/1-연습/147355_크기가작은부분문자열.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/de8b2ee03b6e122ff888e595ee6c5bcce2728254/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/147355_%ED%81%AC%EA%B8%B0%EA%B0%80%EC%9E%91%EC%9D%80%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.swift)
-둘만의 암호 | 155652 | [[프로그래머스]/1-연습/155652_둘만의암호.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/3b320b7a77aa176a0837b25df52151302bcd9588/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/155652_%EB%91%98%EB%A7%8C%EC%9D%98%EC%95%94%ED%98%B8.swift)
-카드뭉치 | 159994 | [[프로그래머스]/1-연습/159994_카드뭉치.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/159994_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.swift)
+숫자 짝꿍 | 131128 | [프로그래머스/1/131128. 숫자 짝꿍](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/131128.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A7%9D%EA%BF%8D)
+삼총사 | 131705 | [프로그래머스/1/131705_삼총사.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/131705_%EC%82%BC%EC%B4%9D%EC%82%AC.swift)
+콜라 문제 | 132267 | [프로그래머스/1/132267_콜라문제.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/132267_%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C.swift)
+옹알이(2) | 133499 | [프로그래머스/1/133499. 옹알이 （2）](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/133499.%E2%80%85%EC%98%B9%EC%95%8C%EC%9D%B4%E2%80%85%EF%BC%882%EF%BC%89)
+햄버거 만들기 | 133502 | [프로그래머스/1/133502. 햄버거 만들기](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/133502.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
+푸드 파이트 대회 | 134240 | [프로그래머스/1/134240_푸드파이트대회.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/134240_%ED%91%B8%EB%93%9C%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8C%80%ED%9A%8C.swift)
+과일 장수 | 135808 | [프로그래머스/1/135808. 과일 장수](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/135808.%E2%80%85%EA%B3%BC%EC%9D%BC%E2%80%85%EC%9E%A5%EC%88%98)
+기사 단원의 무기 | 136798 | [프로그래머스/1/136798_기사단원의무기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/136798_%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%EB%AC%B4%EA%B8%B0.swift)
+명예의 전당(1) | 138477 | [프로그래머스/1/138477_명예의전당(1).swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/138477_%EB%AA%85%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9(1).swift)
+문자열 나누기 | 140108 | [프로그래머스/1/140108. 문자열 나누기](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/140108.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0)
+가장 가까운 같은 글자 | 142086 | [프로그래머스/1/142086_가장 가까운 같은 글자.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/142086_%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.swift)
+크기가 작은 부분 문자열 | 147355 |[프로그래머스/1/147355_크기가작은부분문자열.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/147355_%ED%81%AC%EA%B8%B0%EA%B0%80%EC%9E%91%EC%9D%80%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.swift)
+둘만의 암호 | 155652 | [프로그래머스/1/155652_둘만의암호.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/155652_%EB%91%98%EB%A7%8C%EC%9D%98%EC%95%94%ED%98%B8.swift)
+카드뭉치 | 159994 | [프로그래머스/1/159994_카드뭉치.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/159994_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.swift)
+대충 만든 자판 | 160586 | [프로그래머스/1/160586. 대충 만든 자판](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/160586.%E2%80%85%EB%8C%80%EC%B6%A9%E2%80%85%EB%A7%8C%EB%93%A0%E2%80%85%EC%9E%90%ED%8C%90)
+덧칠하기 | 161989 |[프로그래머스/1/161989_덧칠하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/161989_%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.swift)
+바탕화면 정리 | 161990 | [프로그래머스/1/161990. 바탕화면 정리](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/161990.%E2%80%85%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%E2%80%85%EC%A0%95%EB%A6%AC)
+공원 산책 | 172928 | [프로그래머스/1/172928. 공원 산책](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/172928.%E2%80%85%EA%B3%B5%EC%9B%90%E2%80%85%EC%82%B0%EC%B1%85)
+추억 점수 | 176963 | [프로그래머스/1/176963. 추억 점수](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/176963.%E2%80%85%EC%B6%94%EC%96%B5%E2%80%85%EC%A0%90%EC%88%98)
+달리기 경주 | 178871 | [프로그래머스/1/178871. 달리기 경주](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/178871.%E2%80%85%EB%8B%AC%EB%A6%AC%EA%B8%B0%E2%80%85%EA%B2%BD%EC%A3%BC)
 
-## 월간 코드 챌린지 & 위클리 챌린지
+## 정렬
+| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
+| --- | --- | --- | --- |
+K번째수 | 42748 | 1 | [프로그래머스/1/42748_K번째수.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42748_K%EB%B2%88%EC%A7%B8%EC%88%98.swift)
+
+## 완전탐색
+| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
+| --- | --- | --- | --- |
+모의고사 | 42840 | 1 |  [프로그래머스/1/42840_모의고사.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42840_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.swift)
+최소직사각형 | 86491 | 1 | [프로그래머스/1/86491. 최소직사각형](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86491.%E2%80%85%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+
+## 탐욕법(Greedy)
+| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
+| --- | --- | --- | --- |
+체육복 | 42862 | 1 |  [프로그래머스/1/42862. 체육복](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42862.%E2%80%85%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+
+## 월간 코드 챌린지 & 위클리 챌린지 & Summer/Winter Coding(~2018) & Dev-Matching: 웹 백엔드 개발자(상반기)
 | 문제 이름 | 문제 번호 | 문제 링크 |
 | --- | --- | --- |
-3진법뒤집기 | 68935 | [[프로그래머스]/1-연습/68935_3진법뒤집기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/68935_3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0.swift)
-내적 | 70128 | [[프로그래머스]/1-연습/70128_내적.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/70128_%EB%82%B4%EC%A0%81.swift)
-음양더하기 | 76501 | [[프로그래머스]/1-연습/76501_음양 더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/de8b2ee03b6e122ff888e595ee6c5bcce2728254/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/76501_%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.swift)
-약수의 개수와 덧셈 | 77884 | [[프로그래머스]/1-연습/77884_약수의개수와덧셈.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/77884_%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88.swift)
-부족한 금액 계산하기 | 82612 | [[프로그래머스]/1-연습/82612_부족한금액계산하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/82612_%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.swift)
-없는 숫자 더하기 | 86501 | [[프로그래머스]/1-연습/86501_없는숫자더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/86501_%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.swift)
-나머지가 1이 되는 수 | 87389 | [[프로그래머스]/1-연습/87389_나머지가 1이 되는 수 찾기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/87389_%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift)
+소수 만들기 | 12977 | [프로그래머스/1/12977_소수만들기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12977_%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)
+예산 | 12982 | [프로그래머스/1/12982. 예산](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12982.%E2%80%85%EC%98%88%EC%82%B0)
+두 개 뽑아서 더하기 | 68644 | [프로그래머스/1/68644_두개뽑아서더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/68644_%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.swift)
+3진법뒤집기 | 68935 | [프로그래머스/1/68935_3진법뒤집기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/68935_3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0.swift)
+내적 | 70128 | [프로그래머스/1/70128_내적.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/70128_%EB%82%B4%EC%A0%81.swift)
+음양더하기 | 76501 | [프로그래머스/1/76501_음양 더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/76501_%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.swift)
+로또의 최고 순위와 최저 순위 | 77484 | [프로그래머스/1/77484. 로또의 최고 순위와 최저 순위](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/77484.%E2%80%85%EB%A1%9C%EB%98%90%EC%9D%98%E2%80%85%EC%B5%9C%EA%B3%A0%E2%80%85%EC%88%9C%EC%9C%84%EC%99%80%E2%80%85%EC%B5%9C%EC%A0%80%E2%80%85%EC%88%9C%EC%9C%84)
+약수의 개수와 덧셈 | 77884 | [프로그래머스/1/77884_약수의개수와덧셈.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/77884_%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88.swift)
+부족한 금액 계산하기 | 82612 | [프로그래머스/1/82612_부족한금액계산하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/82612_%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.swift)
+없는 숫자 더하기 | 86501 | [프로그래머스/1/86501_없는숫자더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/86501_%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.swift)
+나머지가 1이 되는 수 | 87389 | [프로그래머스/1/87389_나머지가 1이 되는 수 찾기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/87389_%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.swift)
 
-## LV.2
-
-## LV.3
-
-## LV.4
-
-## LV.5
+## KAKAO BLIND RECRUITMENT & 카카오 인턴십
+| 문제 이름 | 문제 번호 | 문제 레벨 | 문제 링크 |
+| --- | --- | --- | --- |
+[1차] 비밀지도 | 17681 | 1 | [프로그래머스/1/17681. ［1차］ 비밀지도](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/17681.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
+[1차] 다트 게임 | 17682 | 1 | [프로그래머스/1/17682. ［1차］ 다트 게임](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/17682.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%8B%A4%ED%8A%B8%E2%80%85%EA%B2%8C%EC%9E%84)
+실패율 | 42889 | 1 | [프로그래머스/1/42889. 실패율](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/42889.%E2%80%85%EC%8B%A4%ED%8C%A8%EC%9C%A8)
+크레인 인형뽑기 게임 | 64061 | 1 | [프로그래머스/1/64061. 크레인 인형뽑기 게임](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/64061.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B8%E2%80%85%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84)
+키패드 누르기 | 67256 | 1 | [프로그래머스/1/67256. ［카카오 인턴］ 키패드 누르기](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/67256.%E2%80%85%EF%BC%BB%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%EC%9D%B8%ED%84%B4%EF%BC%BD%E2%80%85%ED%82%A4%ED%8C%A8%EB%93%9C%E2%80%85%EB%88%84%EB%A5%B4%EA%B8%B0)
+신규 아이디 추천 | 72410 | 1 | [프로그래머스/1/72410. 신규 아이디 추천](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/72410.%E2%80%85%EC%8B%A0%EA%B7%9C%E2%80%85%EC%95%84%EC%9D%B4%EB%94%94%E2%80%85%EC%B6%94%EC%B2%9C)
+숫자 문자열과 영단어 | 81301 | 1 | [프로그래머스/1/81301_숫자문자열과영단어.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/81301_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.swift)
+신고 결과 받기 | 92334 | 1 | [프로그래머스/1/92334. 신고 결과 받기](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/92334.%E2%80%85%EC%8B%A0%EA%B3%A0%E2%80%85%EA%B2%B0%EA%B3%BC%E2%80%85%EB%B0%9B%EA%B8%B0)
+성격 유형 검사하기 | 118666 | 1 | [프로그래머스/1/118666. 성격 유형 검사하기](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/118666.%E2%80%85%EC%84%B1%EA%B2%A9%E2%80%85%EC%9C%A0%ED%98%95%E2%80%85%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)
+개인정보 수집 유효기간 | 150370 | 1 | [프로그래머스/1/150370. 개인정보 수집 유효기간](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/150370.%E2%80%85%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%E2%80%85%EC%88%98%EC%A7%91%E2%80%85%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)
+가장 많이 받은 선물 | 258712 | 1 | [프로그래머스/1/258712. 가장 많이 받은 선물](https://github.com/BaeJihae/-Swift-CodingTest/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/258712.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EB%A7%8E%EC%9D%B4%E2%80%85%EB%B0%9B%EC%9D%80%E2%80%85%EC%84%A0%EB%AC%BC)
