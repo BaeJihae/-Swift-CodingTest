@@ -293,6 +293,7 @@ x만큼의 간격이 있는 n개의 숫자 | 12954 | [[프로그래머스]/1-연
 ## 월간 코드 챌린지 & 위클리 챌린지
 | 문제 이름 | 문제 번호 | 문제 링크 |
 | --- | --- | --- |
+문자열 내 p와 y의 개수 | 12916 |
 3진법뒤집기 | 68935 | [[프로그래머스]/1-연습/68935_3진법뒤집기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/68935_3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0.swift)
 내적 | 70128 | [[프로그래머스]/1-연습/70128_내적.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/main/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/70128_%EB%82%B4%EC%A0%81.swift)
 음양더하기 | 76501 | [[프로그래머스]/1-연습/76501_음양 더하기.swift](https://github.com/BaeJihae/-Swift-CodingTest/blob/de8b2ee03b6e122ff888e595ee6c5bcce2728254/%5B%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%5D/1-%EC%97%B0%EC%8A%B5/76501_%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.swift)
