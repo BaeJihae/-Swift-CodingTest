@@ -4,11 +4,13 @@ func solution(_ citations:[Int]) -> Int {
     
     var sortedCitations = citations.sorted(by: >)
     
-    for i in (0...sortedCitations[0]).reversed() {
-        if sortedCitations.filter{ $0 >= i }.count >= i {
+    for (i, count) in sortedCitations.enumerated() {
+        if i+1 <= count {
+            continue
+        }else {
             return i
-        } 
+        }
     }
     
-    return 0
+    return citations.count
 }
